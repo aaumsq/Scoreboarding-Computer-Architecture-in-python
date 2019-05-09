@@ -1,5 +1,5 @@
 # Scoreboarding-Computer-Architecture-in-python
-Implementation of Scoreboarding, a technique for dynamically scheduling a pipeline so that the instructions can execute out of order when there are no conflicts and the hardware is available, in python
+Implementation of Scoreboarding, a technique for dynamically scheduling a pipeline so that the instructions can execute out of order when there are no conflicts and the hardware is available, in python.
 The verilog modules required for the functional units, used during the execution stage, are imported from a separate python file(functions.py). 
 
 The input instructions are added in the instruction array in the code separated by a comma.  
