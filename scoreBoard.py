@@ -14,7 +14,7 @@ class fStatus:         ### class for the functional unit
         self.rk = rk
 
 
-
+   
 class iSt:          ### class for the instruction status
     def __init__(self, issue = 0, rdOp = 0, exe = 0, wb = 0):
         self.issue = issue
