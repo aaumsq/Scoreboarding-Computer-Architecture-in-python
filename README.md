@@ -24,7 +24,7 @@ MUL r5 r6 r2        ### These instructions should be added in the instruction ar
 Output:
 
 inst    issue      ReadOp        Execute       WriteBack
-1          1          2           10            11
+1          1          2           10            11                                                                                         
 2          2          3           23            24
 3          25          26           56            57
 4          26          27           28            29
